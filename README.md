@@ -7,9 +7,9 @@ A full-featured **Live Video Call Web Application** with user authentication, re
 ## 🚀 Demo
 
 ![VideoApp Screenshot](/demo/Screenshot 2025-08-20 060528.png)
-![VideoApp Screenshot](//demo/Screenshot 2025-08-20 060736.png)
-![VideoApp Screenshot](//demo/Screenshot 2025-08-20 060955.png)
-![VideoApp Screenshot](//demo/Screenshot 2025-08-20 060926.png)
+![VideoApp Screenshot](/demo/Screenshot 2025-08-20 060736.png)
+![VideoApp Screenshot](/demo/Screenshot 2025-08-20 060955.png)
+![VideoApp Screenshot](/demo/Screenshot 2025-08-20 060926.png)
 
 ---
 
