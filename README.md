@@ -5,7 +5,7 @@ A full-featured **Live Video Call Web Application** with user authentication, re
 ---
 
 ## 🚀 Demo
-
+<img width="1867" height="869" alt="Image" src="https://github.com/user-attachments/assets/35245c26-7acb-4d42-9ac8-643289dda3a3" />
 ![VideoApp Screenshot](/demo/Screenshot 2025-08-20 060528.png)
 ![VideoApp Screenshot](/demo/Screenshot 2025-08-20 060736.png)
 ![VideoApp Screenshot](/demo/Screenshot 2025-08-20 060955.png)
